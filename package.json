@@ -1,0 +1,20 @@
+{ 
+  "name":"its-currency-converter",
+  "version": "1.0.0",
+  "description": "Convert currencies effortlessly with this TypeScript console app. Enter an amount and select the target currency to see the converted value instantly.  Perfect for beginners, this project helps you master key TypeScript concepts like variables, algorithms, loops, and if statements while building a practical tool.",
+  "main": "main.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
